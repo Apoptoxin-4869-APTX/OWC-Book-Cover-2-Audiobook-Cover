@@ -4,8 +4,8 @@ This jupyter file takes images of book cover in the style of Oxford World Classi
 
 As an example let us see the cover of "A Study in Scarlet" by Sir Arthur Conan Doyle.
 
-![[cover-book/sh_01.png]]
+<img src="cover-book/sh_01.png" width="200" align="center"/>
 
 This will be transformed into this: 
 
-![[cover-audiobook/sh_01.png]]
+<img src="cover-audiobook/sh_01.png" width="200"/>
